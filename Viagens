@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Página de Viagens</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Bem-vindo às Melhores Viagens</h1>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#destinos">Destinos</a></li>
+            <li><a href="#dicas">Dicas de Viagem</a></li>
+        </ul>
+    </nav>
+
+    <section id="destinos">
+        <h2>Destinos Populares</h2>
+        <p>Explore alguns dos destinos mais incríveis do mundo.</p>
+        <img src="paris.jpg" alt="Paris">
+    </section>
+
+    <section id="dicas">
+        <h2>Dicas de Viagem</h2>
+        <p>Aqui estão algumas dicas úteis para planejar sua próxima viagem.</p>
+        <img src="dicas.jpg" alt="Dicas de Viagem">
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Página de Viagens</p>
+    </footer>
+</body>
+</html>
